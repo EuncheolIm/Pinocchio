@@ -1,2 +1,8 @@
-# CBFs
-apply Control Barrier Function in Frank Emika Panda
+# pinocchio
+
+* add CmakeLists.txt
+
+```
+> find_package(pinocchio REQUIRED)
+> pinocchio::pinocchio
+```
